@@ -36,6 +36,5 @@ There are no requirements when it comes to python packages.
 ### Steps
 
 1. Open Ulauncher.
-2. Go to **Extensions > Add extension**.
-3. Paste the URL of this github page:
-
+2. Go to **Settings > Extensions > Add extension**.
+3. Paste the URL of this github page: https://github.com/JerryV22/Ulauncher-quickfind
